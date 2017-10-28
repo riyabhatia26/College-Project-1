@@ -1,0 +1,11 @@
+TOP 10 GOVT B SCHOOLS		
+1	IIM	Ahmedabad
+2	IIM	Calcutta
+3	FMS	New Delhi
+4	IIM	Kozhikode
+5	IIFT	New Delhi
+6	NIIE	Mumbai
+7	IIM	Shillong
+8	DMS, IIT New Delhi
+9	DMS, IIT Chennai
+10	MANAGE	Hyderabad

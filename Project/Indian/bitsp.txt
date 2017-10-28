@@ -1,0 +1,9 @@
+
+Institute: BITS
+City: Pilani
+Selection Process(200): 136.3
+Personality Development(180): 136.0
+Academic Excellence(220): 138.3
+Infastructure and Facilities(120): 101.0
+Placements(280): 188.8
+Total(1000): 700.5

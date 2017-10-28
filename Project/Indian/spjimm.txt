@@ -1,0 +1,9 @@
+
+Institute: SP Jain Institute of Management
+City: Mumbai
+Selection Process(200): 150.4
+Personality Development(180): 142.4
+Academic Excellence(220): 179.6
+Infastructure and Facilities(120): 96.5
+Placements(280): 232.0
+Total(1000): 800.9

@@ -1,0 +1,9 @@
+
+Institute: NMIMS
+City: Mumbai
+Selection Process(200): 137.6
+Personality Development(180): 138.8
+Academic Excellence(220): 165.4
+Infastructure and Facilities(120): 97.3
+Placements(280): 207.1
+Total(1000): 746.2

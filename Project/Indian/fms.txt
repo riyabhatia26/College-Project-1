@@ -1,0 +1,9 @@
+
+Institute: FMS
+City: Delhi
+Selection Process(200): 161.6
+Personality Development(180): 148.0
+Academic Excellence(220): 176.1
+Infastructure and Facilities(120): 104.1
+Placements(280): 230.6
+Total(1000): 830.4

@@ -1,0 +1,9 @@
+
+Institute: Symbiosis Institute of Business Management
+City: Pune
+Selection Process(200): 143.8
+Personality Development(180): 138.4
+Academic Excellence(220): 170.4
+Infastructure and Facilities(120): 97.9
+Placements(280): 202.1
+Total(1000): 752.6

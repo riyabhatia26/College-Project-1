@@ -1,0 +1,9 @@
+
+Institute: XIM
+City: Bhubaneshwar
+Selection Process(200): 135.6
+Personality Development(180): 132.4
+Academic Excellence(220): 159.6
+Infastructure and Facilities(120): 105.6
+Placements(280): 212.6
+Total(1000): 745.8

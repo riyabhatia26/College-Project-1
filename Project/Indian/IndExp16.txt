@@ -1,0 +1,25 @@
+1	Indian Institute of Management Bangalore
+2	Indian Institute of Management Ahmedabad
+3	Indian Institute of Management Calcutta
+4	Indian Institute of Management Lucknow
+5	Indian Institute of Management Udaipur
+6	Indian Institute of Management Kozhikode
+7	International Management Institute, New Delhi
+8	Indian Institute of Forest Management, Bhopal
+9	Indian Institute of Technology Kanpur
+10	Indian Institute of Management Indore
+11	Management Development Institute, Gurgaon
+12	International Management Institute, Kolkata
+13	Xavier Labour Relations Institute (XLRI), Jamshedpur
+14	Indian Institute of Management Tiruchirappalli
+15	Thiagarajar School of Management, Madurai
+16	S. P. Jain Institute of Management & Research, Mumbai
+17	Vellore Institute of Technology, Vellore
+18	Indian Institute of Management Raipur
+19	Indian Institute of Management Rohtak
+20	Rajiv Gandhi Indian Institute of Management Shillong
+21	Indian Institute of Management Kashipur
+22	Indian Institute of Information Technology & Management, Gwalior
+23	Fore School of Management, New Delhi
+24	Lal Bahadur Shastri Institute of Management, New Delhi
+25	Birla Institute of Technology, Ranchi

@@ -1,0 +1,9 @@
+
+Institute: IIIM
+City: Ahmedabad
+Selection Process(200): 165.5
+Personality Development(180): 167
+Academic Excellence(220): 196.9
+Infastructure and Facilities(120): 105.0
+Placements(280): 254.8
+Total(1000): 889.2

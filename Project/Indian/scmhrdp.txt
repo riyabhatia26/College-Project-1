@@ -1,0 +1,9 @@
+
+Institute: Symbiosis Centre for Management and HRD
+City: Pune
+Selection Process(200): 133.8
+Personality Development(180): 137.4
+Academic Excellence(220): 141.4
+Infastructure and Facilities(120): 98.5
+Placements(280): 204.8
+Total(1000): 715.9

@@ -1,0 +1,9 @@
+
+Institute: IIM
+City: Calcutta
+Selection Process(200): 158.9
+Personality Development(180): 162.0
+Academic Excellence(220): 191.8
+Infastructure and Facilities(120): 109.1
+Placements(280): 250.7
+Total(1000): 872.5

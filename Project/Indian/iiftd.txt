@@ -1,0 +1,9 @@
+
+Institute: IIFT
+City: Delhi
+Selection Process(200): 145.7
+Personality Development(180): 145.4
+Academic Excellence(220): 165.1
+Infastructure and Facilities(120): 93.4
+Placements(280): 230.0
+Total(1000): 779.6

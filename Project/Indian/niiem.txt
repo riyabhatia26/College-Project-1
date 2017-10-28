@@ -1,0 +1,9 @@
+
+Institute: NITIE
+City: Mumbai
+Selection Process(200): 144.4
+Personality Development(180): 136.4
+Academic Excellence(220): 158.5
+Infastructure and Facilities(120): 97.5
+Placements(280): 211.1
+Total(1000): 747.9

@@ -1,0 +1,70 @@
+1	Indian Institute of Management (IIM) Ahmedabad
+2	Indian School of Business (ISB) Hyderabad
+3	Indian Institute of Management (IIM) Calcutta
+4	Indian Institute of Management (IIM), Bangalore
+5	Indian Institute of Management (IIM), Lucknow
+6	Xavier Labour Relations Institute (XLRI)
+7	Faculty of Management Studies (FMS)
+8	Indian Institute of Management (IIM) Kozhikode
+9	Indian Institute of Management (IIM) Indore
+10	S. P. Jain Institute of Management and Research
+11	Management Development Institute (MDI)
+12	Rajiv Gandhi Indian Institute of Management (IIM) Shillong
+13	Indian Institute of Foreign Trade (IIFT)
+14	Jamnalal Bajaj Institute of Management Studies (JBIMS)
+15	National Institute of Industrial Engineering (NITIE) Mumbai
+16	Shailesh J Mehta School of Management, IIT Bombay
+17	Symbiosis Institute of Business Management (SIBM)
+18	Narsee Monjee Institute of Management Studies (NMIMS)
+19	Institute of Management Technology (IMT) Ghaziabad
+20	Tata Institute of Social Sciences (TISS)
+21	Mudra Institute of Communications, Ahmedabad (MICA)
+22	Indian Institute of Technology Delhi (IIT Delhi)
+23	Xavier Institute of Management (XIM) Bhubaneswar
+24	Symbiosis Centre for Management and Human Resource Development (SCMHRD)
+25	Vinod Gupta School of Management (IIT Kharagpur)
+MBAClub.in offers career counselling, MBA interview preparation as well as MBA college selection services to help you succeed in landing your dream B-School admit.	
+	Tier 2 Business Schools in India
+26	Indian Institute of Technology, Kanpur (IIT Kanpur)
+27	K. J. Somaiya Institute of Management Studies and Research
+28	Indian Institute of Management (IIM) Ranchi
+29	Indian Institute of Management (IIM) Raipur
+30	Indian Institute of Management (IIM) Tiruchirappalli
+31	Indian Institute of Management (IIM) Rohtak
+32	Indian Institute of Management (IIM) Udaipur
+33	Indian Institute of Management (IIM) Kashipur
+34	Great Lakes Institute of Management
+35	Goa Institute of Management (GIM)
+36	Institute of Rural Management (IRMA)
+37	Indian Institute of Technology Madras (IIT Madras)
+38	Symbiosis Institute of International Business (SIIB)
+39	T. A. Pai Management Institute, Manipal (TAPMI)
+40	Symbiosis Institute of Business Management Bangalore
+41	International Management Institute (IMI), Delhi
+42	Institute of Management Nirma University
+43	Indian Institute of Technology Roorkee (IIT Roorkee)
+44	Xavier Institute Of Management & Entrepreneurship
+45	Symbiosis Institute of Management Studies (SIMS)
+46	FORE School of Management, New Delhi
+47	LIBA (Loyola Institute of Business Administration)
+48	Birla Institute of Technology and Science (BITS-Pilani)
+49	Welingkar Institute of Management
+50	Lal Bahadur Shastri Institute of Management (LBSIM)
+51	ICFAI Business School
+52	Xavier Institute of Social Service
+53	Symbiosis Institute of Media and Communication
+54	Banaras Hindu University (BHU)
+55	Institute for Financial Management and Research (IFMR).
+56	Institute of Management Technology (IMT) Nagpur
+57	University Business School (UBS), Panjab University
+58	Indian Institute of Forest Management (IIFM)
+59	National Institute of Technology (NIT) Tiruchirappalli
+60	Symbiosis Institute of Telecom Management (SITM)
+61	Symbiosis Centre for Information Technology (SCIT)
+62	Symbiosis Institute of Operations Management (SIOM)
+63	Motilal Nehru National Institute Of Technology
+64	VIT Business School
+65	Birla Institute of Management Technology
+66	Department of Management Sciences (PUMBA), University of Pune
+67	Indian Institute of Science (IISc) – Bangalore
+68	National Institute of Technology (Durgapur)

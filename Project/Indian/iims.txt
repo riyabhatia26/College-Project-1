@@ -1,0 +1,9 @@
+
+Institute: IIM
+City: Shillong
+Selection Process(200): 142.6
+Personality Development(180): 138.4
+Academic Excellence(220): 156.2
+Infastructure and Facilities(120): 96.3
+Placements(280): 179.6
+Total(1000): 713.1

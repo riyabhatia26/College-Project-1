@@ -1,0 +1,28 @@
+1	Indian Institute of Management Bangalore
+2	Indian Institute of Management Ahmedabad
+3	Indian Institute of Management Calcutta
+4	Indian Institute of Technology Delhi
+5	Indian Institute of Technology Madras
+6	Indian Institute of Management Lucknow
+7	XLRI - Xavier School of Management
+8	Indian Institute of Management Kozhikode
+9	Indian Institute of Technology Roorkee
+10	Indian Institute of Management Indore
+11	Indian Institute of Technology Kharagpur
+12	University of Delhi
+13	National Institute of Industrial Engineering
+14	Shailesh J. Mehta School of Management
+15	Management Development Institute
+16	S. P. Jain Institute of Management and Research
+17	Indian Institute of Technology Kanpur
+18	Indian Institute of Management Shillong
+19	Indian Institute of Foreign Trade
+20	Indian Institute of Science
+21	T. A. Pai Management Institute
+22	Institute of Management Technology, Ghaziabad
+23	Xavier Institute of Management, Bhubaneswar
+24	Narsee Monjee Institute of Management Studies
+25	National Institute of Technology Tiruchirapalli
+26	Symbiosis Centre for Management and Human Resource Development
+27	Xavier Institute of Management and Entrepreneurship
+28	Indian School of Business

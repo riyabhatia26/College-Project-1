@@ -1,0 +1,9 @@
+
+Institute: MANAGE
+City: Hyderabad
+Selection Process(200): 109.0
+Personality Development(180): 141.8
+Academic Excellence(220): 147.0
+Infastructure and Facilities(120): 91.8
+Placements(280): 179.7
+Total(1000): 669.3

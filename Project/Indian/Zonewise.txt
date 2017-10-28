@@ -1,0 +1,24 @@
+NORTH	
+1	FMS, New Delhi
+2	IIFT
+3	MDI, Gurgaon
+4	IMI
+5	DMS, IIT Delhi
+SOUTH	
+1	IIM, Kozhikode
+2	TAPMI, Manipal
+3	DMS, IIT Madras
+4	MANAGE
+5	DMS NIT Trichy
+EAST	
+1	IIM, Calcutta
+2	XLRI, Jamshedpur
+3	XIM, Bhubaneshwar
+4	IIM, Shillong
+5	XISS, Ranchi
+WEST	
+1	IIM, Ahmedabad
+2	SP Jain IM
+3	SIBM, Pune
+4	NITIE, Mumbai
+5	NMIMS, Mumbai

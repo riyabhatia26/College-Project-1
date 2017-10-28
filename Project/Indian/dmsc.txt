@@ -1,0 +1,9 @@
+
+Institute: DMS, IIT
+City: Chennai
+Selection Process(200): 124.9
+Personality Development(180): 123.6
+Academic Excellence(220): 151.3
+Infastructure and Facilities(120): 101.6
+Placements(280): 169.6
+Total(1000): 671.0

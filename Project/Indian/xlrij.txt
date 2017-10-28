@@ -1,0 +1,9 @@
+
+Institute: XLRI
+City: Jamshedpur
+Selection Process(200): 160.3
+Personality Development(180): 154.0
+Academic Excellence(220): 177.1
+Infastructure and Facilities(120): 110.1
+Placements(280): 231.9
+Total(1000): 833.5
